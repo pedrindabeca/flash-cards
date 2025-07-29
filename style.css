@@ -60,7 +60,7 @@ body{
     font-weight: 700;
 }
 
-.cartao:hover .cartao_conteudo{
+.cartao.active .cartao_conteudo{
     transform: rotateY(180deg);
 }
 
@@ -89,4 +89,17 @@ footer p{
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+}
+
+@media (max-width: 560px){
+    body{
+        background: url(img/bg-mobile.webp);
+    }
+
+    .cartao{
+        font-size: 3vw;
+    }
+    .cartao_conteudo p{
+        font-size: 3vw;
+    }
 }

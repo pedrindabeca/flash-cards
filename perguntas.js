@@ -1,7 +1,7 @@
 criaCartao(
-    'Progamação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de progamação'
+    'Bíblia',
+    'O que é Jesus',
+    'Jesus é a verdade, o caminhoe a vida'
 )
 
 criaCartao(
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Progamação',
-    'O que é Phyton?',
-    'o Phython é uma linguagem de progamação'
+    'Bíblia',
+    'O que é que comemoramos na Páscoa?',
+    'A ressuireição do nosso Jesus Cristo'
 )
